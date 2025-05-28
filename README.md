@@ -1,10 +1,19 @@
 ## I'm Varuna Priya 
 
 🎓 **B.Tech CSE Student** at SASTRA Deemed University  
+
 🔐 **Aspiring Cybersecurity Engineer**  
-📚 **Certifications**: Fortinet Certified Assosciate in Cybersecurity, Ethical Hacking -NPTEL
-💻 **Tools**: Kali Linux, BurpSuite, ZAP, Wireshark
- 
+
+📚 **Certifications**:  
+- Fortinet Certified Associate in Cybersecurity  
+- Ethical Hacking (NPTEL)  
+
+💻 **Tools**:  
+- Kali Linux  
+- Burp Suite  
+- ZAP  
+- Wireshark  
+
 
 ---
 
