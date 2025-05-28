@@ -2,7 +2,7 @@
 
 🎓 **B.Tech CSE Student** at SASTRA Deemed University  
 🔐 **Aspiring Cybersecurity Engineer**  
-📚 **Certifications**: Fortinet Certified Assosciate in Cybersecurity, Ethical Hacking (NPTEL)
+📚 **Certifications**: Fortinet Certified Assosciate in Cybersecurity, Ethical Hacking -NPTEL
 💻 **Tools**: Kali Linux, BurpSuite, ZAP, Wireshark
  
 
